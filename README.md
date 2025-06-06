@@ -87,8 +87,7 @@ Aplikasi ini dapat diakses secara publik melalui Streamlit Cloud.
 
 ## 🙋‍♂️ Kontributor
 
-* Nama: **ADVENT CLEMENT ZENDRATO**
-* Institusi: Universitas Nusa Putra
+* Nama: **Kayla Puspita Khairiyah**
 * Mata Kuliah: Machine Learning
 * Dosen: GINA PURNAMA INSANY, S.ST., M.Kom
 
