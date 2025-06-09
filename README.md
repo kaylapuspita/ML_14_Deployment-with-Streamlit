@@ -44,7 +44,7 @@ Aplikasi ini merupakan implementasi sederhana untuk mendeteksi pesan spam menggu
 1. **Clone repository ini:**
 
 ```bash
-git clone https://github.com/Buluzaku12/spam-detector-streamlit.git
+git clone https://github.com/kaylapuspita/ML_14_Deployment-with-Streamlit.git
 cd spam-detector-streamlit
 ````
 
@@ -71,7 +71,7 @@ streamlit run spam.py
 ## 🌐 Deployment Online
 
 Aplikasi ini dapat diakses secara publik melalui Streamlit Cloud.
-🔗 [Klik di sini untuk melihat aplikasi yang sudah dideploy](https://spam-detector-app-x6cnc4w42x6pyauer9tdxv.streamlit.app/)
+🔗 [Klik di sini untuk melihat aplikasi yang sudah dideploy](https://kaylaa.streamlit.app/)
 
 
 
